@@ -1,6 +1,6 @@
-Create a Repository
+# 19CS545-Ex1 - Create a Repository in GitHub
 
-AIM: 
+## AIM: 
 To create a repository.
 
 PROCEDURE:  
@@ -38,11 +38,12 @@ The final command is dnf install vim -y. This command installs the Vim text edit
 package manager. The -y flag tells dnf to assume yes to all prompts, which is useful for una ended 
 installa ons.
 
-OUTPUT:
+## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/92670847-b5cc-4459-97a9-0340ffc2b83d)
 
 
-RESULT: 
+## RESULT: 
 
 Thus a repository has been created successfully.
+
